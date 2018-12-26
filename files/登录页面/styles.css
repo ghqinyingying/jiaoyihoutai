@@ -1,0 +1,126 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(242, 242, 242, 1);
+  background-image:none;
+  position:relative;
+  left:-0px;
+  width:1440px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u1169_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1440px;
+  height:460px;
+}
+#u1169 {
+  position:absolute;
+  left:0px;
+  top:80px;
+  width:1440px;
+  height:460px;
+}
+#u1170 {
+  position:absolute;
+  left:2px;
+  top:222px;
+  width:1436px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1171_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:386px;
+  height:275px;
+}
+#u1171 {
+  position:absolute;
+  left:850px;
+  top:110px;
+  width:386px;
+  height:275px;
+}
+#u1172 {
+  position:absolute;
+  left:2px;
+  top:130px;
+  width:382px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1173_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:60px;
+  height:59px;
+}
+#u1173 {
+  position:absolute;
+  left:200px;
+  top:10px;
+  width:60px;
+  height:59px;
+}
+#u1174 {
+  position:absolute;
+  left:2px;
+  top:22px;
+  width:56px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1175_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:220px;
+  height:31px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  color:#666666;
+}
+#u1175 {
+  position:absolute;
+  left:270px;
+  top:25px;
+  width:220px;
+  height:31px;
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  color:#666666;
+}
+#u1176 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:220px;
+  white-space:nowrap;
+}
+#u1177 {
+  position:absolute;
+  left:880px;
+  top:320px;
+  width:130px;
+  height:40px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
